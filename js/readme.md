@@ -1,13 +1,10 @@
-Fake it til they make it
+# Fake it til they make it
 
-be sure to have node installed!
+**Be sure to have node installed!**
+Examples were written using Node 8.9.1 and Express 4.16.2
 
-create a new folder/directory for your project and run npm init from within the new directory
-
-
+Create a new folder/directory for your project and run `npm init` from within the new directory
 
 for 'entry point' enter app.js, for everything else just hit enter
 
-Add "express": "4.16.2" to the dependencies in the package.json
-
-run npm intall
+run `npm install express --save`
