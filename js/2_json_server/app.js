@@ -9,7 +9,7 @@ app.get('/', (req, res) => res.send("Fake it, 'til they make it!")
 
 app.get('/basket', (req, res) => {
     //view the request
-    console.log('GET /Bbsket Request: ', req);
+    console.log('GET /Basket Request: ', req);
 
     res.setHeader('Content-Type', 'application/json');
     //return whatever status code you want

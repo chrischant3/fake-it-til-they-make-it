@@ -8,3 +8,6 @@ Create a new folder/directory for your project and run `npm init` from within th
 for 'entry point' enter app.js, for everything else just hit enter
 
 run `npm install express --save`
+
+to start the express app server run
+`node app.js`
